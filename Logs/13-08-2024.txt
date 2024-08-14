@@ -1,0 +1,838 @@
+13-08-2024 13:37:18: ============ Program Init Test Started ============
+13-08-2024 13:37:55: ============ Program Init Test Started ============
+13-08-2024 13:38:31: ============ Program Init Test Started ============
+13-08-2024 13:38:45: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:38:45: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:38:45: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:40:07: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 13:40:20: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:40:20: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:40:21: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:43:18: ============ Program Init Test Started ============
+13-08-2024 13:43:25: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:43:25: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:43:26: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:43:26: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 13:43:27: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:43:27: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:43:27: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:46:41: ============ Program Init Test Started ============
+13-08-2024 13:46:41: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:46:41: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:46:41: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:46:41: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 13:46:43: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:46:43: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:46:43: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:49:57: ============ Program Init Test Started ============
+13-08-2024 13:49:57: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:49:57: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:49:57: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:49:57: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 13:49:59: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:49:59: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:49:59: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:53:02: ============ Program Init Test Started ============
+13-08-2024 13:53:02: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:53:02: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:53:02: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 13:53:02: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 13:53:03: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 13:53:03: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 13:53:03: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:04:33: ============ Program Init Test Started ============
+13-08-2024 14:04:33: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:04:33: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:04:33: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:04:33: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:04:34: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:04:34: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:04:34: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:05:35: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:06:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:06:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:06:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:08:40: ============ Program Init Test Started ============
+13-08-2024 14:08:40: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:08:40: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:08:40: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:08:40: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:08:40: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:08:40: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:08:40: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:08:40: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:08:46: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:08:46: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:08:46: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:12:40: ============ Program Init Test Started ============
+13-08-2024 14:12:40: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:12:40: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:12:40: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:12:40: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:12:40: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:12:40: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:12:40: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:12:40: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:12:42: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:12:42: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:12:42: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:13:19: IPv4 address found:  172.34.34.29
+13-08-2024 14:37:39: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:37:39: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 14:37:39: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:38:21: ============ Program Init Test Started ============
+13-08-2024 14:38:21: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:38:21: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:38:21: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:38:21: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:38:21: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:38:21: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:38:21: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:38:21: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:38:21: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:38:21: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:38:21: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:38:30: IPv4 address found:  172.34.34.29
+13-08-2024 14:38:37: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:38:37: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 14:38:37: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:39:22: ============ Program Init Test Started ============
+13-08-2024 14:39:22: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:39:22: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:39:22: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:39:22: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:39:22: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:39:22: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:39:22: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:39:22: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:39:22: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:39:22: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:39:22: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:39:22: IPv4 address found:  172.34.34.29
+13-08-2024 14:39:22: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:39:22: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 14:39:22: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:40:03: ============ Program Init Test Started ============
+13-08-2024 14:40:03: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:40:03: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:40:03: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 14:40:03: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 14:40:03: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:40:03: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 14:40:03: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 14:40:03: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 14:40:03: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:40:03: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 14:40:04: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 14:40:04: IPv4 address found:  172.34.34.29
+13-08-2024 14:40:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 14:40:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 14:40:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:06:19: ============ Program Init Test Started ============
+13-08-2024 15:06:19: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:06:19: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:06:19: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:06:19: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:06:19: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:06:19: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:06:19: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:06:19: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:06:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:06:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:06:20: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:06:20: IPv4 address found:  172.34.34.29
+13-08-2024 15:06:25: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:06:25: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:06:25: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:07:50: ============ Program Init Test Started ============
+13-08-2024 15:07:50: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:07:50: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:07:50: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:07:50: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:07:50: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:07:50: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:07:50: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:07:50: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:07:50: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:07:50: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:07:50: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:07:50: IPv4 address found:  172.34.34.29
+13-08-2024 15:07:54: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:07:54: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:07:54: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:08:53: ============ Program Init Test Started ============
+13-08-2024 15:08:53: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:08:53: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:08:53: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:08:53: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:08:53: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:08:53: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:08:53: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:08:53: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:08:53: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:08:53: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:08:53: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:08:53: IPv4 address found:  172.34.34.29
+13-08-2024 15:08:55: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:08:55: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:08:55: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:10:42: ============ Program Init Test Started ============
+13-08-2024 15:10:42: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:10:42: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:10:43: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:10:43: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:10:43: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:10:43: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:10:43: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:10:43: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:10:43: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:10:43: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:10:43: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:10:43: IPv4 address found:  172.34.34.29
+13-08-2024 15:10:45: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:10:45: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:10:45: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:12:41: ============ Program Init Test Started ============
+13-08-2024 15:12:41: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:12:41: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:12:41: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:12:41: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:12:41: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:12:41: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:12:41: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:12:41: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:12:41: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:12:41: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:12:42: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:12:42: IPv4 address found:  172.34.34.29
+13-08-2024 15:12:45: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:12:45: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:12:45: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:14:22: ============ Program Init Test Started ============
+13-08-2024 15:14:22: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:14:22: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:14:22: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:14:22: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:14:22: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:14:23: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:14:23: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:14:23: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:14:23: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:14:23: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:14:23: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:14:23: IPv4 address found:  172.34.34.29
+13-08-2024 15:14:25: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:14:25: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:14:25: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:17:02: ============ Program Init Test Started ============
+13-08-2024 15:17:02: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:17:02: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:17:02: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:17:02: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:17:02: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:17:02: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:17:03: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:17:03: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:17:03: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:17:03: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:17:03: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:17:03: IPv4 address found:  172.34.34.29
+13-08-2024 15:17:05: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:17:05: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:17:05: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:18:09: ============ Program Init Test Started ============
+13-08-2024 15:18:09: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:18:09: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:18:09: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:18:09: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:18:09: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:18:09: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:18:09: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:18:09: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:18:09: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:18:09: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:18:09: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:18:09: IPv4 address found:  172.34.34.29
+13-08-2024 15:18:14: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:18:14: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:18:14: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:34:00: ============ Program Init Test Started ============
+13-08-2024 15:34:00: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:34:00: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:34:01: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:34:01: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:34:01: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:34:01: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:34:01: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:34:01: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:34:01: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:34:01: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:34:01: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:34:01: IPv4 address found:  172.34.34.29
+13-08-2024 15:34:01: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:34:01: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:34:01: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:34:53: ============ Program Init Test Started ============
+13-08-2024 15:34:53: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:34:53: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:34:53: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:34:53: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:34:53: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:34:53: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:34:53: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:34:53: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:34:53: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:34:53: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:34:53: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:34:53: IPv4 address found:  172.34.34.29
+13-08-2024 15:34:53: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:34:53: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:34:53: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:35:33: ============ Program Init Test Started ============
+13-08-2024 15:35:33: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:35:34: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:35:34: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:35:34: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:35:34: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:35:34: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:35:34: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:35:34: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:35:34: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:35:34: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:35:34: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:35:34: IPv4 address found:  172.34.34.29
+13-08-2024 15:35:34: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:35:34: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:35:34: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:36:05: ============ Program Init Test Started ============
+13-08-2024 15:36:05: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:36:05: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:36:05: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:36:05: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:36:05: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:36:05: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:36:05: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:36:05: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:36:05: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:36:05: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:36:05: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:36:05: IPv4 address found:  172.34.34.29
+13-08-2024 15:36:05: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:36:05: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:36:05: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:36:29: ============ Program Init Test Started ============
+13-08-2024 15:36:29: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:36:29: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:36:29: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:36:29: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:36:29: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:36:29: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:36:29: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:36:29: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:36:29: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:36:29: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:36:29: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:36:29: IPv4 address found:  172.34.34.29
+13-08-2024 15:36:29: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:36:29: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:36:29: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:41:59: ============ Program Init Test Started ============
+13-08-2024 15:41:59: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:41:59: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:41:59: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:41:59: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:41:59: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:41:59: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:41:59: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:41:59: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:41:59: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:41:59: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:41:59: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:41:59: IPv4 address found:  172.34.34.29
+13-08-2024 15:41:59: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:41:59: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:42:00: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:42:27: ============ Program Init Test Started ============
+13-08-2024 15:42:27: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:42:27: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:42:28: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:42:28: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:42:28: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:42:28: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:42:28: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:42:28: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:42:28: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:42:28: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:42:28: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:42:28: IPv4 address found:  172.34.34.29
+13-08-2024 15:42:28: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:42:28: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:42:28: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:43:07: ============ Program Init Test Started ============
+13-08-2024 15:43:07: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:43:07: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:43:08: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:43:08: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:43:08: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:43:08: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:43:08: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:43:08: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:43:08: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:43:08: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:43:08: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:43:08: IPv4 address found:  172.34.34.29
+13-08-2024 15:43:08: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:43:08: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:43:08: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:43:45: ============ Program Init Test Started ============
+13-08-2024 15:43:45: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:43:45: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:43:45: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:43:45: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:43:45: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:43:45: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:43:45: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:43:45: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:43:45: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:43:45: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:43:45: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:43:45: IPv4 address found:  172.34.34.29
+13-08-2024 15:43:45: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:43:45: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:43:45: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:44:25: ============ Program Init Test Started ============
+13-08-2024 15:44:25: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:44:25: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:44:25: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:44:25: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:44:25: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:44:25: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:44:25: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:44:25: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:44:25: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:44:25: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:44:25: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:44:25: IPv4 address found:  172.34.34.29
+13-08-2024 15:44:25: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:44:25: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:44:25: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:53:46: ============ Program Init Test Started ============
+13-08-2024 15:53:46: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:53:46: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:53:47: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:53:47: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:53:47: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:53:47: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:53:47: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:53:47: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:53:47: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:53:47: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:53:47: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:53:47: IPv4 address found:  172.34.34.29
+13-08-2024 15:53:47: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:53:47: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:53:47: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:54:18: ============ Program Init Test Started ============
+13-08-2024 15:54:18: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:54:18: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:54:18: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:54:18: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:54:18: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:54:18: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:54:18: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:54:18: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:54:18: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:54:18: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:54:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:54:19: IPv4 address found:  172.34.34.29
+13-08-2024 15:54:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:54:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:54:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:55:49: ============ Program Init Test Started ============
+13-08-2024 15:55:49: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:55:49: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:55:50: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:55:50: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:55:50: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:55:50: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:55:50: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:55:50: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:55:50: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:55:50: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:55:50: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:55:50: IPv4 address found:  172.34.34.29
+13-08-2024 15:55:50: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:55:50: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:55:50: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:56:20: ============ Program Init Test Started ============
+13-08-2024 15:56:20: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:56:20: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:56:20: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:56:20: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:56:20: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:56:20: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:56:20: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:56:20: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:56:20: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:56:20: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:56:20: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:56:20: IPv4 address found:  172.34.34.29
+13-08-2024 15:56:20: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:56:20: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:56:21: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:59:02: ============ Program Init Test Started ============
+13-08-2024 15:59:02: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:59:02: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:59:02: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:59:02: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:59:02: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:59:02: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:59:02: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:59:02: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:59:02: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:59:02: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:59:02: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:59:02: IPv4 address found:  172.34.34.29
+13-08-2024 15:59:02: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:59:02: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:59:02: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:59:18: ============ Program Init Test Started ============
+13-08-2024 15:59:18: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:59:18: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:59:18: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 15:59:18: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 15:59:18: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:59:18: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 15:59:18: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 15:59:18: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 15:59:18: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:59:18: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 15:59:18: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 15:59:18: IPv4 address found:  172.34.34.29
+13-08-2024 15:59:18: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 15:59:18: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 15:59:18: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:02:26: ============ Program Init Test Started ============
+13-08-2024 16:02:26: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:02:26: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:02:26: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:02:26: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:02:26: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:02:26: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:02:26: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:02:26: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:02:26: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:02:26: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:02:27: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:02:27: IPv4 address found:  172.34.34.29
+13-08-2024 16:02:27: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:02:27: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:02:27: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:03:15: ============ Program Init Test Started ============
+13-08-2024 16:03:15: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:03:15: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:03:16: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:03:16: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:03:16: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:03:16: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:03:16: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:03:16: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:03:16: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:03:16: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:03:16: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:03:16: IPv4 address found:  172.34.34.29
+13-08-2024 16:03:16: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:03:16: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:03:16: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:03: ============ Program Init Test Started ============
+13-08-2024 16:04:03: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:04: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:04: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:04: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:04:04: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:04: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:04: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:04: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:04:04: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:04: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:04:04: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:04: IPv4 address found:  172.34.34.29
+13-08-2024 16:04:04: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:04: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:04:04: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:10: ============ Program Init Test Started ============
+13-08-2024 16:04:10: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:10: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:10: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:10: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:04:10: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:10: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:10: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:10: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:04:10: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:10: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:04:10: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:10: IPv4 address found:  172.34.34.29
+13-08-2024 16:04:10: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:10: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:04:10: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:54: ============ Program Init Test Started ============
+13-08-2024 16:04:54: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:54: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:54: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:04:54: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:04:54: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:54: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:04:55: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:04:55: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:04:55: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:55: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:04:55: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:04:55: IPv4 address found:  172.34.34.29
+13-08-2024 16:04:55: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:04:55: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:04:55: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:05:19: ============ Program Init Test Started ============
+13-08-2024 16:05:19: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:05:19: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:05:19: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:05:19: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:05:19: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:05:19: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:05:19: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:05:19: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:05:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:05:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:05:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:05:19: IPv4 address found:  172.34.34.29
+13-08-2024 16:05:20: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:05:20: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:05:20: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:05:56: ============ Program Init Test Started ============
+13-08-2024 16:05:56: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:05:56: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:05:56: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:05:56: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:05:56: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:05:56: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:05:56: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:05:56: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:05:56: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:05:56: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:05:56: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:05:56: IPv4 address found:  172.34.34.29
+13-08-2024 16:05:56: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:05:56: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:05:56: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:06:33: ============ Program Init Test Started ============
+13-08-2024 16:06:33: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:06:33: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:06:33: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:06:33: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:06:33: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:06:33: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:06:33: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:06:33: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:06:33: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:06:33: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:06:33: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:06:33: IPv4 address found:  172.34.34.29
+13-08-2024 16:06:33: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:06:33: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:06:33: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:07:13: ============ Program Init Test Started ============
+13-08-2024 16:07:13: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:07:13: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:07:13: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:07:13: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:07:13: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:07:13: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:07:13: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:07:13: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:07:13: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:07:13: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:07:13: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:07:13: IPv4 address found:  172.34.34.29
+13-08-2024 16:07:13: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:07:13: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:07:14: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:08:19: ============ Program Init Test Started ============
+13-08-2024 16:08:19: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:08:19: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:08:19: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:08:19: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:08:19: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:08:19: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:08:19: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:08:19: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:08:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:08:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:08:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:08:19: IPv4 address found:  172.34.34.29
+13-08-2024 16:08:19: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:08:19: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:08:19: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:10:12: ============ Program Init Test Started ============
+13-08-2024 16:10:12: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:10:12: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:10:12: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:10:12: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:10:12: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:10:12: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:10:12: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:10:12: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:10:12: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:10:12: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:10:12: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:10:12: IPv4 address found:  172.34.34.29
+13-08-2024 16:10:12: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:10:12: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:10:13: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:17:03: ============ Program Init Test Started ============
+13-08-2024 16:17:03: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:17:03: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:17:03: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:17:03: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:17:03: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:17:03: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:17:04: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:17:04: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:17:04: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:17:04: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:17:04: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:17:04: IPv4 address found:  172.34.34.29
+13-08-2024 16:17:04: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:17:04: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:17:04: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:17:48: ============ Program Init Test Started ============
+13-08-2024 16:17:48: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:17:48: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:17:49: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:17:49: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:17:49: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:17:49: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:17:49: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:17:49: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:17:49: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:17:49: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:17:49: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:17:49: IPv4 address found:  172.34.34.29
+13-08-2024 16:17:49: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:17:49: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:17:49: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:18:28: Not in SMT Network
+13-08-2024 16:18:32: ============ Program Init Test Failed ============
+13-08-2024 16:32:28: ============ Program Init Test Started ============
+13-08-2024 16:32:28: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:32:28: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:32:28: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:32:28: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:32:28: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:32:28: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:32:28: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:32:28: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:32:28: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:32:29: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:32:29: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:32:29: IPv4 address found:  172.34.34.29
+13-08-2024 16:32:29: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:32:29: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:32:29: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:32:35: In SMT Network
+13-08-2024 16:32:52: In ExecuteCmd(): ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:32:52: In ExecuteCmd(), Executing command: ping -n 5 -w 1000 172.16.16.14, waitForCompletion: 1
+13-08-2024 16:32:56: In ExecuteCmd(), Execution finished for command: ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:34:07: ============ Program Init Test Started ============
+13-08-2024 16:34:07: In ExecuteCmd(): where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:34:07: In ExecuteCmd(), Executing command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:34:07: In ExecuteCmd(), Execution finished for command: where tesseract > C:\Users\adamu\AppData\Local\Temp\tesseract_check_output.txt 2>&1
+13-08-2024 16:34:07: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:34:07: In ExecuteCmd(): cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:34:07: In ExecuteCmd(), Executing command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1, waitForCompletion: 1
+13-08-2024 16:34:07: In ExecuteCmd(), Execution finished for command: cmd /c tesseract -v > C:\Users\adamu\AppData\Local\Temp\tesseract_version_output.txt 2>&1
+13-08-2024 16:34:07: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:34:07: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:34:07: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt, waitForCompletion: 1
+13-08-2024 16:34:07: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_output.txt
+13-08-2024 16:34:07: IPv4 address found:  172.34.34.29
+13-08-2024 16:34:07: In ExecuteCmd(): ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:34:07: In ExecuteCmd(), Executing command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt, waitForCompletion: 1
+13-08-2024 16:34:07: In ExecuteCmd(), Execution finished for command: ipconfig > C:\Users\adamu\AppData\Local\Temp\ipconfig_mask_output.txt
+13-08-2024 16:34:14: In SMT Network
+13-08-2024 16:35:04: In ExecuteCmd(): ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:35:04: In ExecuteCmd(), Executing command: ping -n 5 -w 1000 172.16.16.14, waitForCompletion: 1
+13-08-2024 16:35:08: In ExecuteCmd(), Execution finished for command: ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:48:23: ============ Program Init Test Started ============
+13-08-2024 16:48:23: In ExecuteCmd(): where tesseract
+13-08-2024 16:48:23: In ExecuteCmd(), Executing command: where tesseract, waitForCompletion: 1
+13-08-2024 16:48:23: In ExecuteCmd(), Execution finished for command: where tesseract
+13-08-2024 16:48:23: Tesseract is installed at: C:\Program Files\Tesseract-OCR\tesseract.exe
+
+13-08-2024 16:48:23: In ExecuteCmd(): tesseract -v
+13-08-2024 16:48:23: In ExecuteCmd(), Executing command: tesseract -v, waitForCompletion: 1
+13-08-2024 16:48:23: In ExecuteCmd(), Execution finished for command: tesseract -v
+13-08-2024 16:48:23: Tesseract is installed with version 5.3.0, which meets or exceeds the required version 5.3.0.
+13-08-2024 16:48:23: In ExecuteCmd(): ipconfig
+13-08-2024 16:48:23: In ExecuteCmd(), Executing command: ipconfig, waitForCompletion: 1
+13-08-2024 16:48:23: In ExecuteCmd(), Execution finished for command: ipconfig
+13-08-2024 16:48:23: IPv4 address found:  172.34.34.29
+13-08-2024 16:48:23: In ExecuteCmd(): ipconfig
+13-08-2024 16:48:23: In ExecuteCmd(), Executing command: ipconfig, waitForCompletion: 1
+13-08-2024 16:48:23: In ExecuteCmd(), Execution finished for command: ipconfig
+13-08-2024 16:48:42: In SMT Network
+13-08-2024 16:48:50: In ExecuteCmd(): ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:48:50: In ExecuteCmd(), Executing command: ping -n 5 -w 1000 172.16.16.14, waitForCompletion: 1
+13-08-2024 16:48:54: In ExecuteCmd(), Execution finished for command: ping -n 5 -w 1000 172.16.16.14
+13-08-2024 16:50:14: 5 pings successful. Server is fully connected.
+13-08-2024 16:50:19: Server Directory Exists
+13-08-2024 16:50:21: ============ Program Init Test Passed ============
