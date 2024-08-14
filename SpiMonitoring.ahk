@@ -21,7 +21,7 @@ class SpiMonitoring {
 		spiMonitoring_OFF_btn_bbox := BoundingBox(Rectangle.New(200, 80, 260, 100)).setPixcelColors([PixcelColor(Pixcel(274, 90), "FF3B20")]).setText("OFF")
 		spiMonitoring_OFF_btn_bbox.rect.loc.x += topRefPixcel.x
 		spiMonitoring_OFF_btn_bbox.rect.loc.y += topRefPixcel.y
-		return spiMonitoring_OFF_btn_bbox
+		return spiMonitoring_OFF_btn_bbox 
 	}
 
 	start(dataSetup) {
